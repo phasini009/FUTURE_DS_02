@@ -20,4 +20,4 @@ This project analyzes customer churn patterns using Power BI.
 - Excel
 
 ## 📷 Dashboard Preview
-![Dashboard](Screenshot 2026-05-04 135126.png)
+![Dashboard](Screenshot%202026-05-04%20135126.png)
